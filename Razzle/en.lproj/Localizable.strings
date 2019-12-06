@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  Razzle
+
+  Created by Renata Faria on 05/12/19.
+  Copyright © 2019 Renata Faria. All rights reserved.
+*/
+
+"vaca" = "Cow";
+"cachorro" = "Dog";
+"gato" = "Cat";
+"elefante" = "elephant";
+"bode" = "goat";
+"cavalo" = "horse";
+"galinha" = "Chicken";
+//sounds
+"muge: mõõõõ" = "moo: moooo";
+"late: au au" = "bark: woof woof";
+"mia: miau" = "mew: meow";
+"barre" = "trumpet";
+"berra: béééé" = "bleat: baa";
+"relincha" = "whinny";
+"canta: cocoricó" = "cluck: cluck";
+
+"Próximo animal!" = "Next animal!";
